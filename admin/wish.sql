@@ -95,8 +95,8 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id`, `login`, `pass`) VALUES
-(3, 'elenaloveepta', '8c4d96143f3a9512287a36c22324b729'),
-(4, 'root', 'e61088ec5c3594c62b1e4d341ff6e53e');
+(3, 'elenaloveepta', ''),
+(4, 'root', '');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
